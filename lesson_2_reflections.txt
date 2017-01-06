@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 It let you control what to move into the repository. It does not have commit tracking though.
 This is it
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+For sure they can help when there is a production version of the code and a development version.
+We can develop what needed on a branch and only when ready to go, we will merge stuff.
