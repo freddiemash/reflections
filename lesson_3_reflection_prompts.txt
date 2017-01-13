@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would that when working in team with other people so that everyone can access the rep.
+And I would do that, privately, for private projects which need to be safer.
+Having the project in the cloud can help me with that.
